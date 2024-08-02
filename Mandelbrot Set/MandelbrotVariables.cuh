@@ -1,0 +1,16 @@
+extern GLuint bufferObj;
+extern cudaGraphicsResource* resource;
+extern bool generatePoints;
+extern int dim;
+extern float zoomFactor;
+extern double x;
+extern float goLeft;
+extern float goRight;
+extern float goUp;
+extern float goDown;
+extern double deltaX;
+extern double deltaY;
+extern float zoom;
+extern int iterations;
+extern bool CPUImplementation;
+extern bool GPUImplementation;
