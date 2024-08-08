@@ -169,7 +169,7 @@ RGB colors are assigned based on the iteration number at which $z_n$ terminates,
     } 
 ```
 
-## Krahasimet
+## Comparisions
 
 Table below compares the excecution time in microseconds of the fractal between the sequential version and the parallel one in a resolution 1920x1080.
 
