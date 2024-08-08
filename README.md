@@ -32,6 +32,7 @@ $$f_c : [0, h] \rightarrow [y_1, y_2]$$
 
 
 For the coordinates $x$, we have:
+
 $$ f_x(0) = x_1 $$
 
 $$f_x(w) = x_2 $$
